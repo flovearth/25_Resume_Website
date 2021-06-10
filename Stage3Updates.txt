@@ -1,28 +1,15 @@
-Success criteria
-“Gut feeling” and reliance on the so-called “best practices” of designers and UX practitioners rules in a traditional redesign. While the team may be talented, no batter hits .1000 and many of their changes are likely to hurt website results. With ESR, every change is measured in controlled A/B/n split tests against its effect on business goals.
-The RSR approach leaves your website lacking and continuously falling behind in the intervals between major redesigns. But, with ESR, your website will continuously keep up and surpass the success of the rest of the web.
-
-ESR essentially uses conversion rate optimization principles to redesign your site.
-
-How ESR Eliminates Epic Website Redesigns
-By adopting the evolutionary site redesign approach you can guard against website redesign risks while dramatically improving your website every day.
-
-0 check the code tasks to be done:
-1 check the code tasks to be done:
-2 check the code tasks to be done:
-3 check the code tasks to be done:
-4 check the code tasks to be done:
-5 check the code tasks to be done:
-6 check the code tasks to be done:
-7 check the code tasks to be done:
-8 check the code tasks to be done:
-9 check the code tasks to be done:
 1 check the code tasks to be done:
 18 check the code tasks to be done:
 35 check the code tasks to be done:
 52 check the code tasks to be done:
 69 check the code tasks to be done:
 86 check the code tasks to be done:
+103 check the code tasks to be done:
+120 check the code tasks to be done:
+137 check the code tasks to be done:
+154 check the code tasks to be done:
+171 check the code tasks to be done:
+188 check the code tasks to be done:
 1 check the code tasks to be done:
 10 check the code tasks to be done:
 19 check the code tasks to be done:
@@ -34,20 +21,15 @@ By adopting the evolutionary site redesign approach you can guard against websit
 73 check the code tasks to be done:
 82 check the code tasks to be done:
 91 check the code tasks to be done:
-1 check the code tasks to be done:
-10 check the code tasks to be done:
-19 check the code tasks to be done:
-28 check the code tasks to be done:
-37 check the code tasks to be done:
-46 check the code tasks to be done:
-55 check the code tasks to be done:
-64 check the code tasks to be done:
-0 check the code tasks to be done:
-1 check the code tasks to be done:
-2 check the code tasks to be done:
-3 check the code tasks to be done:
-4 check the code tasks to be done:
-5 check the code tasks to be done:
-6 check the code tasks to be done:
-7 check the code tasks to be done:
-8 check the code tasks to be done:
+100 check the code tasks to be done:
+109 check the code tasks to be done:
+118 check the code tasks to be done:
+127 check the code tasks to be done:
+136 check the code tasks to be done:
+145 check the code tasks to be done:
+154 check the code tasks to be done:
+163 check the code tasks to be done:
+172 check the code tasks to be done:
+181 check the code tasks to be done:
+190 check the code tasks to be done:
+199 check the code tasks to be done:
